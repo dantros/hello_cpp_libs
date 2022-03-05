@@ -19,5 +19,5 @@ Basic sample code to start working with different libraries
   - cmake ..\source\ .
   - open the .sln
   - Build the solution in Release or Debug mode.
-  - Executable is generated at hello_opengl\build\Release\hello.opengl.exe
+  - Executable is generated at hello_opengl\build\Release\hello_opengl.exe
 

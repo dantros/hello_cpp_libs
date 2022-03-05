@@ -26,3 +26,6 @@
 [submodule "libs\\openal-soft\\source\\openal-soft"]
 	path = libs\\openal-soft\\source\\openal-soft
 	url = https://github.com/kcat/openal-soft.git
+[submodule "libs\\entt\\source\\entt"]
+	path = libs\\entt\\source\\entt
+	url = https://github.com/skypjack/entt.git

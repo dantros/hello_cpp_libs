@@ -8,3 +8,6 @@
 [submodule "libs\\eigen\\source\\eigen"]
 	path = libs\\eigen\\source\\eigen
 	url = https://gitlab.com/libeigen/eigen.git
+[submodule "libs\\spdlog\\source\\spdlog"]
+	path = libs\\spdlog\\source\\spdlog
+	url = https://github.com/gabime/spdlog.git

@@ -1,4 +1,4 @@
-# hello_libs
+# hello_cpp_libs
 Basic sample code to start working with different libraries
 
 # Building (Windows)

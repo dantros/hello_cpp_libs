@@ -8,24 +8,3 @@
 [submodule "libs\\eigen\\source\\eigen"]
 	path = libs\\eigen\\source\\eigen
 	url = https://gitlab.com/libeigen/eigen.git
-[submodule "libs\\spdlog\\source\\spdlog"]
-	path = libs\\spdlog\\source\\spdlog
-	url = https://github.com/gabime/spdlog.git
-[submodule "libs\\box2d\\source\\box2d"]
-	path = libs\\box2d\\source\\box2d
-	url = https://github.com/erincatto/box2d.git
-[submodule "libs\\ogre\\source\\ogre"]
-	path = libs\\ogre\\source\\ogre
-	url = https://github.com/OGRECave/ogre.git
-[submodule "libs\\imgui\\source\\imgui"]
-	path = libs\\imgui\\source\\imgui
-	url = https://github.com/ocornut/imgui.git
-[submodule "libs\\openal-soft\\source\\openal-soft"]
-	path = libs\\openal-soft\\source\\openal-soft
-	url = https://github.com/kcat/openal-soft.git
-[submodule "libs\\entt\\source\\entt"]
-	path = libs\\entt\\source\\entt
-	url = https://github.com/skypjack/entt.git
-[submodule "libs\\openmesh\\source\\OpenMesh"]
-	path = libs\\openmesh\\source\\OpenMesh
-	url = https://gitlab.vci.rwth-aachen.de:9000/OpenMesh/OpenMesh.git

@@ -5,6 +5,3 @@
 [submodule "libs/glm/source/glm"]
 	path = libs/glm/source/glm
 	url = https://github.com/g-truc/glm
-[submodule "libs\\eigen\\source\\eigen"]
-	path = libs\\eigen\\source\\eigen
-	url = https://gitlab.com/libeigen/eigen.git

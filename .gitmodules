@@ -11,9 +11,6 @@
 [submodule "libs\\spdlog\\source\\spdlog"]
 	path = libs\\spdlog\\source\\spdlog
 	url = https://github.com/gabime/spdlog.git
-[submodule "libs\\assimp\\source\\assimp"]
-	path = libs\\assimp\\source\\assimp
-	url = https://github.com/assimp/assimp.git
 [submodule "libs\\box2d\\source\\box2d"]
 	path = libs\\box2d\\source\\box2d
 	url = https://github.com/erincatto/box2d.git

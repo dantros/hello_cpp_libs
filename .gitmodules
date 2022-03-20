@@ -8,3 +8,6 @@
 [submodule "libs/eigen/source/eigen"]
 	path = libs/eigen/source/eigen
 	url = https://gitlab.com/libeigen/eigen.git
+[submodule "libs/openal-soft/source/openal-soft"]
+	path = libs/openal-soft/source/openal-soft
+	url = https://github.com/kcat/openal-soft.git

@@ -11,3 +11,6 @@
 [submodule "libs/openal-soft/source/openal-soft"]
 	path = libs/openal-soft/source/openal-soft
 	url = https://github.com/kcat/openal-soft.git
+[submodule "libs/dr_libs/source/dr_libs"]
+	path = libs/dr_libs/source/dr_libs
+	url = https://github.com/mackron/dr_libs.git

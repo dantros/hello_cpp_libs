@@ -14,3 +14,6 @@
 [submodule "libs/dr_libs/source/dr_libs"]
 	path = libs/dr_libs/source/dr_libs
 	url = https://github.com/mackron/dr_libs.git
+[submodule "libs/BehaviorTree.CPP/source/BehaviorTree.CPP"]
+	path = libs/BehaviorTree.CPP/source/BehaviorTree.CPP
+	url = https://github.com/BehaviorTree/BehaviorTree.CPP

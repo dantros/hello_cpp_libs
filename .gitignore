@@ -34,5 +34,8 @@
 # build folders
 *build/
 
+# install folders
+*install/
+
 # ide
 *.vscode/
